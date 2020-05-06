@@ -1,0 +1,13 @@
+drivers:
+  - class: selenium_configurator.drivers.local.Chrome
+    capabilities:
+      desired_capabilities:
+        "goog:chromeOptions":
+          args:
+            - "start-maximized"
+
+  - class: selenium_configurator.drivers.local.Firefox
+    desired_capabilities:
+      "moz:firefoxOptions":
+        args:
+          - "start-maximized"

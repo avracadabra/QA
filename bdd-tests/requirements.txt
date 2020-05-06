@@ -1,0 +1,11 @@
+black
+pylint
+pytest
+pytest-bdd
+pytest-rerunfailures
+pytest-sugar
+pytest-splinter
+python-stdnum
+pytest-xdist
+selenium
+selenium-configurator
