@@ -3,3 +3,5 @@ guide/
 starlette/
 tartiflette-asgi/
 tartiflette-graphql-odata-orleans/
+bdd-avracadabra-action/
+api-gateway/
